@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HugoNak240
 - 👀 I’m interested in finding a specialty in computer science.
-- 🌱 I’m currently learning python programming.
+- 🌱 I’ve learned about HTML, CSS, Javascript, SQL, and <b>Python</b> programming.
 - 💞️ I’m looking to collaborate on anything to gain valuable experience and knowledge.
 - 📫 If you'd like to reach out please email me. 
 
